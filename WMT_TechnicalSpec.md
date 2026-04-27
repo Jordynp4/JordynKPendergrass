@@ -179,14 +179,14 @@ Du Pont ROE = leverage × asset_turnover × operating_profit_margin × debt_burd
 ## 6. Model Review — What Worked & What to Improve
 
 **What worked well:**
-- Named-range architecture made all formulas self-documenting and eliminated ambiguous cell references — the model can be read without opening Excel.
+- Named-range architecture made all formulas self-documenting and eliminated ambiguous cell references the model can be read without opening Excel.
 - Du Pont ROA (9.00%) reconciled exactly with direct ROA; four-factor Du Pont ROE (22.22%) came within 100bps of direct ROE (23.19%), confirming formula consistency across sections.
 - Applying the start-of-year FY2024 denominator uniformly across all flow-to-stock ratios improved comparability and avoided double-counting current-year changes.
 
 **What to improve:**
 - Net vs. gross interest: using `INC_interest_net` understates Times Interest Earned and Cash Coverage relative to standard practice. A refined model separates interest income and gross interest expense into distinct named ranges.
 - Receivables in the quick ratio uses FY2025 end-of-year balances rather than start-of-year, introducing a minor timing inconsistency that should be corrected for uniformity.
-- Walmart's negative NWC (−$17,126M) and current ratio below 1.0 should be annotated as a structural feature of its supplier-financing model, not flagged as a liquidity risk — an important nuance for executive audiences.
+- Walmart's negative NWC (−$17,126M) and current ratio below 1.0 should be annotated as a structural feature of its supplier-financing model, not flagged as a liquidity risk an important nuance for executive audiences.
 - No peer benchmarks or trend data are included. Adding Target and Costco reference columns and a FY2023–FY2025 time series would materially strengthen the analysis.
 
 ---
@@ -195,4 +195,4 @@ Du Pont ROE = leverage × asset_turnover × operating_profit_margin × debt_burd
 
 This model excludes industry peer comparisons, multi-year trend analysis, operating lease adjustments under ASC 842, and non-GAAP figures. EVA is sensitive to the 6.5% WACC assumption and would benefit from a CAPM-derived estimate using current beta and risk-free rate. The statutory tax rate (21.5%) modestly overstates after-tax operating income relative to the effective rate (22.7%).
 
-The next phase (Stage 4) uses this specification as a structured AI prompt blueprint — the named-range pseudocode in Section 4 maps directly to prompt parameters, and the Model Review observations define the target improvements the rebuilt model should address. The final deliverable will be an executive memo interpreting ratio results and recommending strategic actions to the CFO on capital efficiency, liquidity management, and value creation.
+The next phase uses this specification as a structured AI prompt blueprint the named-range pseudocode in Section 4 maps directly to prompt parameters, and the Model Review observations define the target improvements the rebuilt model should address. The final deliverable will be an executive memo interpreting ratio results and recommending strategic actions to the CFO on capital efficiency, liquidity management, and value creation.
