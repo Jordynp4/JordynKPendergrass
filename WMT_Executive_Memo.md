@@ -3,8 +3,6 @@
 **TO:** Chief Financial Officer  
 **FROM:** Financial Analyst, FP&A  
 **DATE:** May 5, 2026  
-**RE:** FY2025 Accounting Ratio Analysis & Strategic Recommendations — Walmart Inc. (WMT)  
-**CLASSIFICATION:** Internal — For Executive Review
 
 ---
 
