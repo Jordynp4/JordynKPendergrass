@@ -28,67 +28,29 @@ The prior fiscal year (FY2024, ended January 31, 2024) balance sheet serves as t
 
 ## B. Ratio Results Summary
 
-### Performance
+. Performance — Walmart Is Decisively Creating Value
+RatioValueMarket Value Added (MVA)$664,835MMarket-to-Book Ratio7.82xEconomic Value Added (EVA)$14,492M
+Walmart's performance ratios confirm that the company is not merely profitable — it is generating substantial economic surplus above and beyond the cost of its capital. EVA of $14.5 billion means that after compensating every capital provider at the assumed 6.5% WACC, nearly $14.5 billion in residual value was created in a single fiscal year. This is a hallmark of a business with structural competitive advantages, not a commodity retailer grinding out thin returns. The market recognizes this: a market-to-book of 7.82x implies investors are paying nearly $8 for every $1 of book equity, pricing in sustained above-cost returns for years to come. MVA of $665 billion represents the cumulative present value of all future EVA the market expects Walmart to generate — a figure that dwarfs most companies' total market caps.
 
-| Metric | Value |
-|--------|-------|
-| Market Value Added (MVA) | $664,835M |
-| Market-to-Book Ratio | 7.82x |
-| Economic Value Added (EVA) | $14,492M |
+2. Profitability — Strong Returns Across All Capital Bases
+RatioValueReturn on Assets (ROA)9.00%Return on Capital (ROC)17.96%Return on Equity (ROE)23.19%
+Walmart earns well above its cost of capital at every level of the capital stack. ROE of 23.2% far exceeds any reasonable estimate of the cost of equity, indicating that shareholders are being well-compensated for the risk they bear. ROC of 18.0% — applied to the combined long-term debt and equity base — confirms that total capital deployment is highly productive. ROA of 9.0% is exceptional in the context of large-scale physical retail, where asset-heavy store networks and distribution infrastructure typically compress this metric. The consistency across all three measures signals that Walmart's profitability is not an artifact of financial engineering; it reflects genuine operating performance.
 
-### Profitability
+3. Efficiency — Velocity, Not Margin, Is the Competitive Weapon
+RatioValueAsset Turnover2.67xDays in Inventory39.2 daysAverage Collection Period4.76 daysOperating Profit Margin3.37%Profit Margin3.11%
+Walmart's margins look thin on their face — a profit margin of 3.1% and operating margin of 3.4% leave little room for error. But this is the wrong lens. The true competitive engine is asset turnover of 2.67x: Walmart converts every dollar of assets into $2.67 of revenue, a rate structurally difficult for competitors to replicate without Walmart's scale and supply chain depth. Inventory days of 39.2 reflects disciplined supply chain management across a product assortment spanning groceries, electronics, apparel, and pharmacy. The average collection period of 4.76 days is effectively instantaneous — consistent with a cash-at-checkout retail model — meaning receivables are not a working capital drag.
 
-| Metric | Value (Start-Year Denom.) | Value (Avg. Denom.) |
-|--------|--------------------------|---------------------|
-| Return on Assets (ROA) | 9.00% | 8.85% |
-| Return on Capital (ROC) | 17.96% | 17.65% |
-| Return on Equity (ROE) | 23.19% | 22.32% |
+4. Leverage — Conservative Posture With Ample Coverage Headroom
+RatioValueLong-Term Debt Ratio25.5%Total Debt Ratio62.6%Times Interest Earned13.07xCash Coverage Ratio18.85xDebt Burden0.922Leverage Ratio2.68x
+Walmart's debt posture is conservative given the scale and predictability of its cash flows. Times interest earned of 13.1x means EBIT covers annual interest expense more than thirteen times over; even a severe earnings contraction would leave interest payments easily covered. The cash coverage ratio of 18.9x (adding back $13B of non-cash depreciation) reinforces this cushion. The long-term debt ratio of 25.5% places roughly a quarter of Walmart's long-term capital in debt — a moderate, investment-grade posture that preserves borrowing capacity for strategic opportunities. The debt burden of 0.922 indicates that nearly all after-tax operating income flows through to net income, with minimal leakage to interest cost.
 
-### Efficiency
+5. Liquidity — Structurally Negative by Design, Not by Distress
+RatioValueCurrent Ratio0.82xQuick Ratio0.20xCash Ratio0.094xNWC to Assets–6.57%
+The liquidity ratios will read as alarming to any analyst unfamiliar with retail operating models. A current ratio of 0.82x and quick ratio of 0.20x sit well below the conventional 1.0x and 0.5x benchmarks, respectively. This is intentional. Walmart collects cash from customers at the point of sale while paying suppliers on 30-to-60-day terms — a structural negative working capital position that is a source of competitive advantage, not financial weakness. The company generated $35.3 billion in operating cash flow in FY2025; liquidity is managed through cash generation and revolving credit access, not through maintaining large liquid asset balances.
 
-| Metric | Value |
-|--------|-------|
-| Asset Turnover | 2.67x |
-| Average Collection Period | 4.76 days |
-| Receivables Turnover | 76.7x |
-| Inventory Turnover | 9.32x |
-| Days in Inventory | 39.2 days |
-| Profit Margin | 3.11% |
-| Operating Profit Margin | 3.37% |
-
-### Leverage
-
-| Metric | Value |
-|--------|-------|
-| Long-Term Debt Ratio | 25.5% |
-| Long-Term Debt-to-Equity | 0.34x |
-| Total Debt Ratio | 62.6% |
-| Times Interest Earned | 13.07x |
-| Cash Coverage Ratio | 18.85x |
-| Debt Burden | 0.922 |
-| Leverage Ratio | 2.68x |
-
-### Liquidity
-
-| Metric | Value |
-|--------|-------|
-| Net Working Capital to Assets | –6.57% |
-| Current Ratio | 0.82x |
-| Quick Ratio | 0.20x |
-| Cash Ratio | 0.094x |
-
-### Du Pont Decomposition
-
-| Component | Value |
-|-----------|-------|
-| Du Pont ROA | 9.00% |
-| → Asset Turnover | 2.67x |
-| → Operating Profit Margin | 3.37% |
-| Du Pont ROE | 22.2% |
-| → Leverage Ratio | 2.68x |
-| → Asset Turnover | 2.67x |
-| → Operating Profit Margin | 3.37% |
-| → Debt Burden | 0.922 |
+6. Du Pont — Turnover Drives Everything
+ComponentValueLeverage Ratio2.68xAsset Turnover2.67xOperating Profit Margin3.37%Debt Burden0.922Du Pont ROE22.2%
+The Du Pont decomposition strips Walmart's ROE down to its fundamental drivers and delivers a clear verdict: asset turnover is the engine. With an operating margin of just 3.4% and leverage of 2.68x, neither profitability nor financial structure alone could produce a 22%+ ROE. It is the combination — high-velocity asset utilization amplified by moderate leverage and near-full debt burden pass-through — that generates shareholder returns. This has a direct strategic implication: any decision that reduces asset velocity (excess inventory build, underperforming square footage, slow-turning categories) is value-destructive, even if it temporarily supports margins. The Du Pont ROE of 22.2% validates the direct ROE calculation (23.2%) within rounding, confirming internal model consistency.
 
 ---
 
