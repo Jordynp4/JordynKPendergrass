@@ -216,7 +216,7 @@ Walmart significantly outperforms its cost of capital yet rarely frames investor
 
 Reducing days in inventory by 5 days would release approximately **$7.0 billion in working capital** ($1.40B × 5). This capital could fund share repurchases, accelerate debt paydown, or be reinvested in the rapidly growing Walmart Connect advertising platform. Given ongoing investments in automation and supplier direct-ship models, a sub-35 day target is achievable within 2–3 years.
 
-### Recommendation 3: Preserve Current Leverage Structure — Avoid Incremental Long-Term Debt
+### Recommendation 3: Preserve Current Leverage Structure to Avoid Incremental Long-Term Debt
 **Data:** Long-term debt ratio = 25.5%; Times Interest Earned = 13.07x; Operating cash flow = $35.3B
 
 Walmart's interest coverage headroom is substantial, and the balance sheet could technically support additional leverage. However, with $33.4B already outstanding, interest rate sensitivity, and macro uncertainty, maintaining the current debt-to-cap ratio near 25% preserves flexibility. Free cash flow is more efficiently deployed toward buybacks (which reduce equity denominator and lift ROE) and strategic acquisitions (Vizio, PhonePe) than additional leverage.
