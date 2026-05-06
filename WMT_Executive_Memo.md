@@ -88,7 +88,7 @@ This decomposition highlights a critical strategic insight: Walmart’s long-ter
 
 1. Walmart is creating significant economic value and consistently earning returns above its cost of capital.
 
-2. Operational efficiency — especially asset turnover and inventory management — remains the company’s primary competitive advantage.
+2. Operational efficiency, especially asset turnover and inventory management, remains the company’s primary competitive advantage.
 
 3. Profit margins are intentionally thin, meaning continued efficiency improvements are critical to sustaining returns.
 
@@ -150,7 +150,7 @@ Walmart’s profitability does not come from high margins — it comes from sell
 | **Long-Term Debt Ratio: 25.5%** | About one-quarter of long-term capital comes from debt financing. | **Manageable** | Conservative for a large corporation. |
 | **Debt-to-Equity: 0.34x** | Walmart uses relatively moderate debt compared to shareholder equity. | **Strong** | Lower risk than many large corporations. |
 | **Total Debt Ratio: 62.6%** | Liabilities finance a significant portion of assets. | **Moderate Concern** | Common for retail companies with large supplier obligations. |
-| **Times Interest Earned: 13.07x** | Walmart earns over 13 times its annual interest expense. | **Very Strong** | Well above the common safety benchmark of 3–5x. |
+| **Times Interest Earned: 13.07x** | Walmart earns over 13 times its annual interest expense. | **Very Strong** | Well above the common safety benchmark of 3-5x. |
 | **Cash Coverage: 18.85x** | Cash-generating ability strongly supports debt obligations. | **Very Strong** | Indicates very low short-term debt servicing risk. |
 | **Leverage Ratio: 2.68x** | Assets are about 2.7 times equity, showing moderate use of leverage. | **Acceptable** | Reasonable for a mature retailer. |
 
@@ -193,14 +193,14 @@ The Du Pont decomposition reveals that **Walmart's ROE is overwhelmingly driven 
 
 | Driver | Contribution Assessment |
 |--------|------------------------|
-| Operating Profit Margin (3.37%) | Low — intrinsic to the low-price model |
-| Asset Turnover (2.67x) | High — the core competitive engine |
-| Leverage (2.68x) | Moderate — amplifies returns without distress |
-| Debt Burden (0.922) | Near 1.0 — minimal tax and interest drag |
+| Operating Profit Margin (3.37%) | Low: intrinsic to the low-price model |
+| Asset Turnover (2.67x) | High: the core competitive engine |
+| Leverage (2.68x) | Moderate: amplifies returns without distress |
+| Debt Burden (0.922) | Near 1.0: minimal tax and interest drag |
 
-The Du Pont ROE of **22.2%** (vs. direct ROE of 23.2% using start-of-year equity) confirms internal model consistency. The ~1 percentage point gap reflects the denominator difference between start-year equity and period-average equity — consistent with expectations.
+The Du Pont ROE of **22.2%** (vs. direct ROE of 23.2% using start-of-year equity) confirms internal model consistency. The ~1 percentage point gap reflects the denominator difference between start-year equity and period-average equity consistent with expectations.
 
-**Key insight:** Walmart cannot and should not try to compete on margins alone. Its strategic imperative is to maintain or increase asset velocity — revenue per dollar of invested capital. Investments that reduce turnover (e.g., excess inventory, underperforming square footage) are value-destructive even if they temporarily lift margins.
+**Key insight:** Walmart cannot and should not try to compete on margins alone. Its strategic imperative is to maintain or increase asset velocity revenue per dollar of invested capital. Investments that reduce turnover (e.g., excess inventory, underperforming square footage) are value-destructive even if they temporarily lift margins.
 
 ---
 
@@ -224,7 +224,7 @@ Walmart's interest coverage headroom is substantial, and the balance sheet could
 ### Recommendation 4: Establish a Liquidity Communication Framework for Stakeholders
 **Data:** Current ratio = 0.82x; Quick ratio = 0.20x; Cash = $9.0B
 
-While negative working capital is a structural strength in retail, external stakeholders — credit analysts, bond investors, and rating agencies — may periodically raise liquidity flags during stress periods. A standing CFO communication framework (annual investor letter language, analyst day slide) explaining the working capital model and highlighting $35B+ operating cash flow would proactively manage perception risk and support Walmart's strong investment-grade credit ratings.
+While negative working capital is a structural strength in retail, external stakeholders, credit analysts, bond investors, and rating agencies, may periodically raise liquidity flags during stress periods. A standing CFO communication framework (annual investor letter language, analyst day slide) explaining the working capital model and highlighting $35B+ operating cash flow would proactively manage perception risk and support Walmart's strong investment-grade credit ratings.
 
 ---
 
@@ -238,7 +238,7 @@ The following prompt is designed to be submitted to an LLM to regenerate this an
 
 > You are a financial modeling assistant. Build an Excel-compatible ratio analysis model for **Walmart Inc. (WMT) FY2025** using the inputs and structure below. All figures are in USD millions unless noted.
 >
-> **INPUTS — Balance Sheet**
+> **INPUTS: Balance Sheet**
 > - `BAL_cash_marketable_securities_2025` = 9,037; `_2024` = 9,867
 > - `BAL_receivables_2025` = 9,975; `_2024` = 8,796
 > - `BAL_inventories_2025` = 56,435; `_2024` = 54,892
@@ -250,7 +250,7 @@ The following prompt is designed to be submitted to an LLM to regenerate this an
 > - `BAL_liabilities_total_2025` = 163,402
 > - `BAL_equity_shareholders_2025` = 97,421; `_2024` = 90,349
 >
-> **INPUTS — Income Statement**
+> **INPUTS: Income Statement**
 > - `INC_sales` = 674,538
 > - `INC_cost_goods_sold` = 511,753
 > - `INC_sga` = 139,884
@@ -262,11 +262,11 @@ The following prompt is designed to be submitted to an LLM to regenerate this an
 > - `INC_net` = 20,951
 > - `INC_dividends` = 6,688
 >
-> **INPUTS — Cash Flow**
+> **INPUTS: Cash Flow**
 > - `CASH_operating` = 35,256
 > - `CASH_investments` = -21,379
 >
-> **INPUTS — Market / Analyst**
+> **INPUTS: Market / Analyst**
 > - `share_price` = 95.08
 > - `shares_outstanding` = 8,017 (millions)
 > - `cost_capital` = 6.5%
