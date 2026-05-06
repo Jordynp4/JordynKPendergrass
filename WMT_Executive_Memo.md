@@ -26,29 +26,75 @@ The prior fiscal year (FY2024, ended January 31, 2024) balance sheet serves as t
 
 ## B. Ratio Results Summary
 
-1. Performance: Walmart Is Decisively Creating Value
-RatioValueMarket Value Added (MVA)$664,835MMarket-to-Book Ratio7.82xEconomic Value Added (EVA)$14,492M
-Walmart's performance ratios confirm that the company is not merely profitable it is generating substantial economic surplus above and beyond the cost of its capital. EVA of $14.5 billion means that after compensating every capital provider at the assumed 6.5% WACC, nearly $14.5 billion in residual value was created in a single fiscal year. This is a hallmark of a business with structural competitive advantages, not a commodity retailer grinding out thin returns. The market recognizes this: a market-to-book of 7.82x implies investors are paying nearly $8 for every $1 of book equity, pricing in sustained above-cost returns for years to come. MVA of $665 billion represents the cumulative present value of all future EVA the market expects Walmart to generate a figure that dwarfs most companies' total market caps.
+### Performance
 
-2. Profitability: Strong Returns Across All Capital Bases
-RatioValueReturn on Assets (ROA)9.00%Return on Capital (ROC)17.96%Return on Equity (ROE)23.19%
-Walmart earns well above its cost of capital at every level of the capital stack. ROE of 23.2% far exceeds any reasonable estimate of the cost of equity, indicating that shareholders are being well-compensated for the risk they bear. ROC of 18.0% applied to the combined long-term debt and equity base confirms that total capital deployment is highly productive. ROA of 9.0% is exceptional in the context of large-scale physical retail, where asset-heavy store networks and distribution infrastructure typically compress this metric. The consistency across all three measures signals that Walmart's profitability is not an artifact of financial engineering; it reflects genuine operating performance.
+Walmart’s performance ratios indicate that the company is creating substantial shareholder value rather than merely generating accounting profits. The company’s strong Market Value Added (MVA) and elevated Market-to-Book ratio suggest investors expect Walmart to continue producing returns above its cost of capital well into the future. Positive Economic Value Added (EVA) confirms that Walmart generated economic profit after accounting for financing costs and investor return expectations.
 
-3. Efficiency: Velocity, Not Margin, Is the Competitive Weapon
-RatioValueAsset Turnover2.67xDays in Inventory39.2 daysAverage Collection Period4.76 daysOperating Profit Margin3.37%Profit Margin3.11%
-Walmart's margins look thin on their face a profit margin of 3.1% and operating margin of 3.4% leave little room for error. But this is the wrong lens. The true competitive engine is asset turnover of 2.67x: Walmart converts every dollar of assets into $2.67 of revenue, a rate structurally difficult for competitors to replicate without Walmart's scale and supply chain depth. Inventory days of 39.2 reflects disciplined supply chain management across a product assortment spanning groceries, electronics, apparel, and pharmacy. The average collection period of 4.76 days is effectively instantaneous consistent with a cash-at-checkout retail model meaning receivables are not a working capital drag.
+From a CFO perspective, these metrics reinforce that Walmart’s scale, pricing power, logistics network, and diversification strategy continue to create long-term enterprise value. The market is rewarding Walmart not just for earnings growth, but for sustainable competitive advantages and operational durability.
 
-4. Leverage: Conservative Posture With Ample Coverage Headroom
-RatioValueLong-Term Debt Ratio25.5%Total Debt Ratio62.6%Times Interest Earned13.07xCash Coverage Ratio18.85xDebt Burden0.922Leverage Ratio2.68x
-Walmart's debt posture is conservative given the scale and predictability of its cash flows. Times interest earned of 13.1x means EBIT covers annual interest expense more than thirteen times over; even a severe earnings contraction would leave interest payments easily covered. The cash coverage ratio of 18.9x (adding back $13B of non-cash depreciation) reinforces this cushion. The long-term debt ratio of 25.5% places roughly a quarter of Walmart's long-term capital in debt a moderate, investment-grade posture that preserves borrowing capacity for strategic opportunities. The debt burden of 0.922 indicates that nearly all after-tax operating income flows through to net income, with minimal leakage to interest cost.
+---
 
-5. Liquidity: Structurally Negative by Design, Not by Distress
-RatioValueCurrent Ratio0.82xQuick Ratio0.20xCash Ratio0.094xNWC to Assets–6.57%
-The liquidity ratios will read as alarming to any analyst unfamiliar with retail operating models. A current ratio of 0.82x and quick ratio of 0.20x sit well below the conventional 1.0x and 0.5x benchmarks, respectively. This is intentional. Walmart collects cash from customers at the point of sale while paying suppliers on 30-to-60-day terms a structural negative working capital position that is a source of competitive advantage, not financial weakness. The company generated $35.3 billion in operating cash flow in FY2025; liquidity is managed through cash generation and revolving credit access, not through maintaining large liquid asset balances.
+### Profitability
 
-6. Du Pont Turnover Drives Everything
-ComponentValueLeverage Ratio2.68xAsset Turnover2.67xOperating Profit Margin3.37%Debt Burden0.922Du Pont ROE22.2%
-The Du Pont decomposition strips Walmart's ROE down to its fundamental drivers and delivers a clear verdict: asset turnover is the engine. With an operating margin of just 3.4% and leverage of 2.68x, neither profitability nor financial structure alone could produce a 22%+ ROE. It is the combination high-velocity asset utilization amplified by moderate leverage and near-full debt burden pass-through that generates shareholder returns. This has a direct strategic implication: any decision that reduces asset velocity (excess inventory build, underperforming square footage, slow-turning categories) is value-destructive, even if it temporarily supports margins. The Du Pont ROE of 22.2% validates the direct ROE calculation (23.2%) within rounding, confirming internal model consistency.
+Profitability ratios show that Walmart generates strong returns despite operating in a traditionally low-margin retail environment. Return on Equity (ROE) and Return on Capital (ROC) significantly exceed estimated capital costs, indicating that management is deploying both shareholder equity and invested capital effectively.
+
+The company’s Return on Assets (ROA) is particularly strong for a mass retailer, demonstrating that Walmart efficiently converts its asset base into earnings. This is important because retailers typically compete on volume rather than margins. Walmart’s profitability therefore reflects disciplined operations, scale efficiencies, and strong capital management rather than premium pricing.
+
+Overall, profitability metrics indicate healthy operational performance and effective use of shareholder resources.
+
+---
+
+### Efficiency
+
+Efficiency remains Walmart’s greatest operational strength. The company’s high asset turnover ratio demonstrates that Walmart generates exceptionally large revenue volumes relative to its asset base. This efficiency is the foundation of Walmart’s business model and compensates for its intentionally thin margins.
+
+Inventory management is also highly effective. Inventory moves quickly relative to industry norms, reducing carrying costs and minimizing capital tied up in unsold products. In addition, the extremely short collection period reflects Walmart’s cash-based retail structure, where customers pay immediately while supplier payments occur later.
+
+For executive leadership, these ratios confirm that Walmart’s competitive advantage is driven more by operational velocity and supply chain execution than by profitability per unit sold.
+
+---
+
+### Leverage
+
+Leverage ratios suggest that Walmart maintains a manageable and well-supported debt position. Although total liabilities are substantial, the company’s earnings and operating cash flow provide significant protection against financial distress. Interest coverage ratios remain very strong, indicating that operating income comfortably supports debt servicing requirements.
+
+The company is using leverage strategically rather than aggressively. Debt amplifies shareholder returns without creating excessive financial risk, which is appropriate for a mature, stable company with highly predictable cash flows.
+
+From a CFO standpoint, Walmart currently appears to have a balanced capital structure that preserves both financial flexibility and shareholder return optimization.
+
+---
+
+### Liquidity
+
+Liquidity ratios appear weak under traditional financial benchmarks, with current, quick, and cash ratios all below conventional standards. However, in Walmart’s case, these figures reflect the economics of the retail business model rather than liquidity stress.
+
+Walmart benefits from negative working capital because customers pay immediately at the point of sale while suppliers are paid on extended terms. This creates a favorable cash conversion cycle that reduces the need to hold large cash balances or excess liquid assets.
+
+As a result, liquidity should not be interpreted as a major concern. Strong operating cash flow generation provides Walmart with sufficient short-term financial flexibility despite relatively low traditional liquidity ratios.
+
+---
+
+### Du Pont Analysis
+
+The Du Pont analysis shows that Walmart’s returns are driven primarily by asset turnover rather than high profit margins or excessive leverage. The company operates on thin margins consistent with the discount retail industry, but compensates through extraordinary sales volume and efficient asset utilization.
+
+Leverage contributes moderately to returns, but it is not the primary driver of ROE. Instead, Walmart’s ability to generate large amounts of revenue per dollar of assets is the central factor supporting shareholder returns.
+
+This decomposition highlights a critical strategic insight: Walmart’s long-term success depends on maintaining operational efficiency, inventory velocity, and supply chain scale rather than pursuing margin expansion alone.
+
+---
+
+### Key Executive Takeaways
+
+1. Walmart is creating significant economic value and consistently earning returns above its cost of capital.
+
+2. Operational efficiency — especially asset turnover and inventory management — remains the company’s primary competitive advantage.
+
+3. Profit margins are intentionally thin, meaning continued efficiency improvements are critical to sustaining returns.
+
+4. Debt levels are manageable and strongly supported by cash flow generation.
+
+5. Liquidity ratios appear weak on paper, but Walmart’s negative working capital structure is a strategic advantage rather than a sign of financial distress.
 
 ---
 
@@ -59,7 +105,7 @@ The Du Pont decomposition strips Walmart's ROE down to its fundamental drivers a
 | Ratio | Interpretation | Strength or Concern | Benchmark Comparison |
 |---|---|---|---|
 | **Market Value Added (MVA): $664.8B** | Investors value Walmart far above the accounting value of its equity, meaning the market expects continued long-term value creation. | **Strong** | Extremely high relative to most retailers, reflecting Walmart’s dominant market position. |
-| **Market-to-Book: 7.82x** | The market values Walmart at nearly 8 times its book equity, showing strong investor confidence and intangible brand value. | **Strong** | Above typical retail benchmarks of roughly 2–4x, indicating premium valuation. |
+| **Market-to-Book: 7.82x** | The market values Walmart at nearly 8 times its book equity, showing strong investor confidence and intangible brand value. | **Strong** | Above typical retail benchmarks of roughly 2-4x, indicating premium valuation. |
 | **Economic Value Added (EVA): $14.5B** | Walmart generated returns well above its cost of capital, meaning the company created true economic profit after financing costs. | **Strong** | Positive EVA is considered a major indicator of shareholder value creation; Walmart’s level is exceptionally strong. |
 
 ### Meaning in Context
