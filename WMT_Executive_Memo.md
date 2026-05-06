@@ -1,4 +1,4 @@
-# MEMORANDUM
+# Excecutive Walmart Memo
 
 **TO:** Chief Financial Officer  
 **FROM:** Financial Analyst, FP&A  
